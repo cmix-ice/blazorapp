@@ -1,6 +1,10 @@
+<br>
 
 > [!NOTE]  
-> Ejercicio de la página: [Deploy a Blazor app on Azure Static Web Apps](https://learn.microsoft.com/en-us/azure/static-web-apps/deploy-blazor).
+> ⚡📢 Ejercicio de la página: [Deploy a Blazor app on Azure Static Web Apps](https://learn.microsoft.com/en-us/azure/static-web-apps/deploy-blazor).
+> 
+
+<br>
 
 # Blazor Starter Application
 
